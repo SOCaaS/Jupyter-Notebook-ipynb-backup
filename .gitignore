@@ -3,4 +3,4 @@
 .bashrc*
 .local/
 .jupyter/
-.zshrc/
+.zshrc
