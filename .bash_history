@@ -63,3 +63,7 @@ git commit -m "Automated Backup"
 git push
 git status
 exit
+ping google.com
+msfconsole
+sudo su
+exit
