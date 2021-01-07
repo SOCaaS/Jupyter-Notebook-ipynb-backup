@@ -1,0 +1,6 @@
+.cache/
+.profile/
+.bashrc*
+.local/
+.jupyter/
+.zshrc/
