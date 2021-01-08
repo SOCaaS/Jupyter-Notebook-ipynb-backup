@@ -67,3 +67,8 @@ ping google.com
 msfconsole
 sudo su
 exit
+sudo apt install msfconsole
+sudo su
+ls -la
+git status
+exit
