@@ -72,3 +72,8 @@ sudo su
 ls -la
 git status
 exit
+git
+exit
+sudo su
+pwd
+exit
