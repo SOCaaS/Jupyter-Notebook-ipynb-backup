@@ -77,3 +77,6 @@ exit
 sudo su
 pwd
 exit
+sudo hping --help
+sudo su
+exit
