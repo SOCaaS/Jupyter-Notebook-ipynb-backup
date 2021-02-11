@@ -88,3 +88,36 @@ sudo hping3 -i u1 -S -p 80 filebeat
 d
 bash
 exit
+sudo hping3 -i u1 -S -p 80 filebeat
+sudo su
+exit
+df -k
+df oh
+df -h
+sudo hping3 -i u1 -S -p 80 filebeat
+exit
+sudo su
+exit
+sudo hping3 -i u1 -S -p 80 filebeat
+exi
+;
+q;
+sudo hping3 -i u1 -S -p 80 filebeat
+exot
+kill -9 705
+sudo su
+sudo su
+bash
+htop
+apt-get -y install python3.8
+sudo su
+exit
+ls -la
+cd .git
+ls -la
+cd ..
+git remote -v
+bash
+docker ps
+htop
+exit
