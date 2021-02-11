@@ -80,3 +80,11 @@ exit
 sudo hping --help
 sudo su
 exit
+exot
+exit
+df -h
+df -k
+sudo hping3 -i u1 -S -p 80 filebeat
+d
+bash
+exit
