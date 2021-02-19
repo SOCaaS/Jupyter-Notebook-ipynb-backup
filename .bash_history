@@ -121,3 +121,13 @@ bash
 docker ps
 htop
 exit
+ps
+htop
+sudo apt install wpscan
+kill htop
+htop
+sudo apt install wpscan -y
+kill -9 893
+ps
+sudo htop
+exit
