@@ -131,3 +131,8 @@ kill -9 893
 ps
 sudo htop
 exit
+apt update
+sudo apt update
+sudo apt upgrade -y
+ps -aux
+htop
