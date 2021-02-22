@@ -136,3 +136,15 @@ sudo apt update
 sudo apt upgrade -y
 ps -aux
 htop
+ls
+htop
+sudo apt update
+sudo apt upgrade
+sudo dpkg --configure -a
+sudo apt upgrade
+apt --fix-broken install
+sudo apt t--fix-brooken install
+sudo apt --fix-broken install
+sudo apt install wpscan
+wpscan --help
+exit
