@@ -148,3 +148,15 @@ sudo apt --fix-broken install
 sudo apt install wpscan
 wpscan --help
 exit
+htop
+apt install -u htop
+sudo apt install -y htop
+htop
+top
+sudo su
+htop
+exit
+htop
+sudo apt install -y htop
+htop
+free
