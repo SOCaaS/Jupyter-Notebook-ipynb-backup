@@ -160,3 +160,20 @@ htop
 sudo apt install -y htop
 htop
 free
+sudo hping3 -i u1 -S -p 80 filebeat2
+sudo hping3 -p 80 filebeat2
+sudo hping3 -S -p 80 filebeat2
+sudo hping3 -i u1 -S -p 80 filebeat2
+sudo hping3 -c 100 -S -p 80 filebeat2
+sudo hping3 -c 100 -S -p 80 filebeat2 --faster
+sudo hping3 -i ui -S -p 80 filebeat2
+sudo hping3 -i ui -S -p 80 filebeat2 --faster
+sudo hping3 -i ui -S -p 80 filebeat2 --flood
+wpscan --help
+curl http://filebeat2/blog/
+git status
+git add .
+git commit -m "Backup to Github"
+git push
+sudo hping3 -S -p 80 filebeat2 --flood
+exit
