@@ -177,3 +177,13 @@ git commit -m "Backup to Github"
 git push
 sudo hping3 -S -p 80 filebeat2 --flood
 exit
+git remote -bv
+git remote -v
+git clone https://02bc42269f61814d4cbfd141d51267250ba0c9d2@github.com/SOCaaS/portainer-dockerui.git
+ls -la
+cd portainer-dockerui/
+git status
+git remote -v
+cd ..
+rm -rf portainer-dockerui/
+exit
