@@ -187,3 +187,21 @@ git remote -v
 cd ..
 rm -rf portainer-dockerui/
 exit
+nslookup home.1ez.xyz
+sudo apt install net-tools
+nslookup home.1ez.xyz
+apt install nslookup
+sudo apt install nslookup
+sudo apt install bind-utils
+sudo apt update
+sudo apt install bind9-utils
+nslookup home.1ez.xyz
+[200~sudo apt-get install dnsutils~
+sudo apt-get install dnsutils
+nslookup home.1ez.xyz
+nmap -o home.1ez.xyz
+nmap -a home.1ez.xyz
+nmap -A home.1ez.xyz
+nmap -A -sS home.1ez.xyz
+sudo nmap -A -sS home.1ez.xyz
+exit
