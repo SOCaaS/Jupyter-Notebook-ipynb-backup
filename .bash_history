@@ -205,3 +205,11 @@ nmap -A home.1ez.xyz
 nmap -A -sS home.1ez.xyz
 sudo nmap -A -sS home.1ez.xyz
 exit
+ps -ayx
+ps -aus
+ps -aux
+sudo kill -9 53
+ps -aux
+sudo kill -9 54
+ps -aux
+sudo kill -9 54
